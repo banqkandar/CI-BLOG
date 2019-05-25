@@ -8,7 +8,7 @@
         <meta charset="UTF-8">
         <meta name="description" content="" />
         <meta name="keywords" content="" />
-        <meta name="author" content="M Fikri Setiadi" />
+        <meta name="author" content="M Iskandar Setiadi" />
         <link rel="shortcut icon" href="<?php echo base_url().'assets/images/favicon.png'?>">
 
         <!-- Styles -->

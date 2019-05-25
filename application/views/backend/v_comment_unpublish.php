@@ -8,7 +8,7 @@
         <meta charset="UTF-8">
         <meta name="description" content="" />
         <meta name="keywords" content="" />
-        <meta name="author" content="M Fikri Setiadi" />
+        <meta name="author" content="M Iskandar Setiadi" />
         <link rel="shortcut icon" href="<?php echo base_url().'assets/images/favicon.png'?>">
         
         <!-- Styles -->
@@ -320,7 +320,7 @@
                     </div><!-- Row -->
                 </div><!-- Main Wrapper -->
                 <div class="page-footer">
-                    <p class="no-s"><?php echo date('Y');?> &copy; Powered by M Fikri Setiadi.</p>
+                    <p class="no-s"><?php echo date('Y');?> &copy; Powered by M Iskandar Setiadi.</p>
                 </div>
             </div><!-- Page Inner -->
         </main><!-- Page Content -->

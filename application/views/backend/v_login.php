@@ -8,7 +8,7 @@
         <meta charset="UTF-8">
         <meta name="description" content="" />
         <meta name="keywords" content="" />
-        <meta name="author" content="M Fikri Setiadi" />
+        <meta name="author" content="M Iskandar Setiadi" />
         <meta name="robots" content="noindex, nofollow">
         <link rel="shortcut icon" href="<?php echo base_url().'assets/images/favicon.png'?>">
         <!-- Styles -->
@@ -52,7 +52,7 @@
                                     <button type="submit" class="btn btn-success btn-block">Login</button>
                                     
                                 </form>
-                                <p class="text-center m-t-xs text-sm"><?php echo date('Y');?> &copy; Mblog by M Fikri.</p>
+                                <p class="text-center m-t-xs text-sm"><?php echo date('Y');?> &copy; Mblog by M Iskandar.</p>
                             </div>
                         </div>
                     </div><!-- Row -->
